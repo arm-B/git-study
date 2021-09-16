@@ -1,3 +1,2 @@
-# git-study
-
-# Hello from Korea
+### git-study
+Hello from Korea
